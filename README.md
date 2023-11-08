@@ -1,6 +1,6 @@
 # Student Database Management Program
 
-Python program for managing a student database using SQLite. It provides a menu-driven interface to perform operations such as importing data from a CSV file, printing student records, updating student information, soft-deleting students, and searching for students by different criteria.
+Python program for managing a student database using SQLite. It provides a menu-driven interface to perform operations like importing data from a CSV file, printing student records, updating student information, soft-deleting students, and searching for students by different criteria.
 
 ## Program Features
 
@@ -14,7 +14,7 @@ The program will display a menu with the following options:
 
 ## Program Structure
 
-The program is organized into a class-based structure for better modularity and maintainability. The `StudentDatabase` class represents the database and encapsulates methods for data operations. You can find the database connection setup, data manipulation methods, and the main menu within the class.
+The program is organized into a class-based structure. The `StudentDatabase` class represents the database and encapsulates methods for data operations. You can find the database connection setup, data manipulation methods, and the main menu within the class.
 
 ## Contributions
 
