@@ -1,5 +1,7 @@
 # Student Database Management Program
-
+- Kevin Huang
+- 2402212
+  
 Python program for managing a student database using SQLite. It provides a menu-driven interface to perform operations like importing data from a CSV file, printing student records, updating student information, soft-deleting students, and searching for students by different criteria.
 
 ## Program Features
