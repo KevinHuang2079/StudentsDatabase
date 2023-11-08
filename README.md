@@ -20,11 +20,3 @@ The program is organized into a class-based structure for better modularity and 
 
 - [GeeksforGeeks - Encapsulation in Python](https://www.geeksforgeeks.org/encapsulation-in-python/)
 
-Remember to adapt this template to your specific project, and you can further improve the design and visual appeal by using Markdown formatting, adding images, and making sure the content is well-organized and easy to read.
-
-
-
-
-
-
-Regenerate
